@@ -2,7 +2,7 @@
 title: "index"
 author: "Marcello Nesca"
 date: "01/06/2020"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
