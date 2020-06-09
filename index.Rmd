@@ -1,8 +1,8 @@
 ---
-title: "Current News"
-author: "Marcello Nesca"
-date: "09/06/2020"
-output: html_document
+output: github_document
 ---
 
 # Testing out current news
+
+testing version 2
+i love corgis
