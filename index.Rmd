@@ -1,8 +1,0 @@
----
-title: "Current News"
-author: "Marcello Nesca"
-date: "09/06/2020"
-output: html_document
----
-
-# Testing out current news
