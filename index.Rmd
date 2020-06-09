@@ -1,6 +1,8 @@
 ---
-title: "Marcello Nesca"
-output: github_document
+title: "Current News"
+author: "Marcello Nesca"
+date: "09/06/2020"
+output: html_document
 ---
 
-# Welcome!
+# Testing out current news
