@@ -1,11 +1,9 @@
-Do we really need a title for the front page?
-================
 Marcello Nesca
-01/06/2020
+09/06/2020
 
-## Starting off
+# Testing YAML without title
 
-This is me testing out my webpage
+still testing and getting to know webpage building…
 
 ``` r
 summary(cars)
@@ -24,6 +22,3 @@ summary(cars)
 You can also embed plots, for example:
 
 ![](index_files/figure-gfm/pressure-1.png)<!-- -->
-
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
