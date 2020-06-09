@@ -2,7 +2,7 @@
 title: "CV"
 author: "Marcello Nesca"
 date: "09/06/2020"
-output: html_document
+output: github_document
 ---
 
 # Trying to add my CV page
