@@ -2,6 +2,7 @@ title: Marcello Nesca's Data Science Enthusiast Portfolio
 author: Marcello Nesca
 email: umnescam@myumanitoba.ca
 theme: minima
+  skin: dark
 description: > # this means to ignore newlines until "baseurl:"
   This personal website will be my personal portfolio along with CV and contact information. 
   My goal is to try to make data science/analytics fun and accessible to everyone who is interested in learning.
