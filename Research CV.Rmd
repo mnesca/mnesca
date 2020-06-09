@@ -1,7 +1,5 @@
 ---
-title: "CV"
-author: "Marcello Nesca"
-date: "09/06/2020"
+title: "My Research/Data Science CV"
 output: github_document
 ---
 

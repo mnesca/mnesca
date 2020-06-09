@@ -1,26 +1,6 @@
 ---
-author: "Marcello Nesca"
-date: "09/06/2020"
+title: "Marcello Nesca"
 output: github_document
 ---
 
-# Testing YAML without title
-
-still testing and getting to know webpage building...
-
-
-
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-
+# Welcome!

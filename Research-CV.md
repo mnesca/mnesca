@@ -1,7 +1,5 @@
-CV
+My Research/Data Science CV
 ================
-Marcello Nesca
-09/06/2020
 
 # Trying to add my CV page
 
