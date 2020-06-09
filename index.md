@@ -1,6 +1,4 @@
-Current News
-================
-Marcello Nesca
-09/06/2020
 
 # Testing out current news
+
+testing version 2 i love corgis
